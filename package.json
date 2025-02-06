@@ -1,0 +1,27 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Simple Node.Js API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usman1372/Rest-API.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Rest",
+    "API"
+  ],
+  "author": "Usman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usman1372/Rest-API/issues"
+  },
+  "homepage": "https://github.com/usman1372/Rest-API#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
