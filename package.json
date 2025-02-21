@@ -23,6 +23,7 @@
   "homepage": "https://github.com/usman1372/Rest-API#readme",
   "dependencies": {
     "express": "^4.21.2",
+    "mongoose": "^8.10.1",
     "nodemon": "^3.1.9"
   }
 }
