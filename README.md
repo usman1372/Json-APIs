@@ -1,10 +1,10 @@
 # Rest-API (JSON) using Express
 
-**It would include the following APIs**
+**It would include the following APIs using MVC pattern**
 
 **Get all users list**
-- /users - For Web return Html
-- api/users - For Mobile applications return JSON
+- /users - For Web return HTML
+- api/users - For Mobile applications, return JSON
 
 **Post**
 - GET/users/1 - Get the user with ID 1
