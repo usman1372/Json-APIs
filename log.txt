@@ -1,0 +1,8 @@
+
+1740475168962: ::1 GET: /api/users
+
+1740475274223: ::1 POST: /api/users
+
+1740475290066: ::1 GET: /api/users
+
+1740475508373: ::1 POST: /api/users
